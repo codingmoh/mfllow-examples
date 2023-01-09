@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/efaf9e1c720044b0b9f35fd23d9b3013/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efaf9e1c720044b0b9f35fd23d9b3013
+run_name: industrious-fawn-476
+run_uuid: efaf9e1c720044b0b9f35fd23d9b3013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673273452672
+status: 1
+tags: []
+user_id: Moh

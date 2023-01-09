@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Moh/Documents/FH/FHTW/Slides/WS21_SDC-MDS3/laufendeLV/EH5/mlflow/MNIST/mlruns/0/8795bde7c93c488fa1124220c18d244b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8795bde7c93c488fa1124220c18d244b
+run_name: traveling-dog-709
+run_uuid: 8795bde7c93c488fa1124220c18d244b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673273577444
+status: 1
+tags: []
+user_id: Moh
